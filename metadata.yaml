@@ -1,0 +1,26 @@
+_repo: A-Melody-in-Silver_18434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Keene
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '8023'
+    url: http://www.gutenberg.org/2009/agents/8023
+description: ''
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: A Melody in Silver
+url: http://www.gutenberg.org/ebooks/18434
