@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8023'
     url: http://www.gutenberg.org/2009/agents/8023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18434#A-Melody-in-Silver
 gutenberg_issued: '2006-05-22'
 gutenberg_type: Text
 identifiers:
